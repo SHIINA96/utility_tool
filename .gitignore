@@ -1,0 +1,8 @@
+# 忽略所有 JSON 文件
+*.json
+
+# 忽略所有 CSV 文件
+*.csv
+
+# macOS 系统文件
+.DS_Store
