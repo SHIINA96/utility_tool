@@ -3,6 +3,13 @@
 
 # 忽略所有 CSV 文件
 *.csv
+*.xlsx
 
 # macOS 系统文件
 .DS_Store
+
+# 忽略 test_demo 文件夹
+test_demo/
+
+# Ignore Python virtual environment folders
+venv/
